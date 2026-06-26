@@ -1,0 +1,15 @@
+.DS_Store
+# 超大备份视频
+assets/videos/*_hevc_backup.mp4
+# 旧版文件（不发布）
+adlcp_rootv1p2.xsd
+ims_xml.xsd
+imscp_rootv1p1p2.xsd
+imsmanifest.xml
+imsmd_rootv1p2p1.xsd
+extracted_media/
+player/
+report/
+scorm-output/
+快人一步-*.zip
+快人一步-*.html
