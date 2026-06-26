@@ -1,0 +1,7 @@
+.DS_Store
+# 超大备份视频（超出GitHub 100MB限制）
+scorm-output/number-sea-explorer/assets/videos/*_hevc_backup.mp4
+# SCORM zip包（237MB，太大）
+scorm-output/number-sea-explorer-scorm2004.zip
+# 旧版文件
+extracted_media/
